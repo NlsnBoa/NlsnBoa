@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NlsnBoa&show_icons=true&theme=transparent&hide=contribs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NlsnBoa&langs_count=3&theme=transparent&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NlsnBoa&langs_count=3&theme=transparent&hide=html&exclude_repo=ChatGPTClone,qr-code-component-main, Paralax-Scroll-Website, All-Modern-Cuisine)](https://github.com/anuraghazra/github-readme-stats)
